@@ -35,4 +35,16 @@ Follow these steps to set up the project locally:
    git clone <repository_url>  
    cd <repository_folder>  
 2. **Install Dependencies**
-   Run the following command to install the required packages:
+   - **Run the following command to install the required packages:**
+   - ```bash
+     npm install  
+3. **Run the Application Locally**
+   - **Start the development server with:**
+   - ```bash
+     npm run dev
+   - **The application will be accessible at http://localhost:5173 (default Vite port).**
+4. **📝 License**
+   - **This project is open-source and available under the MIT License.**
+5. **🤝 Contributing**
+   - **Contributions, issues, and feature requests are welcome!**
+   - 1. **Fork the repository.**

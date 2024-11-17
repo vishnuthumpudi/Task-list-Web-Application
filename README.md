@@ -1,8 +1,38 @@
-# React + Vite
+# To-Do List Web Application  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the **To-Do List Web Application**! This project is a simple and efficient to-do list app where users can create, read, update, and delete their tasks.  
 
-Currently, two official plugins are available:
+The app is built using modern technologies for a smooth and responsive user experience.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo  
+Check out the live version of the application: [To-Do List Web Application](https://task-list-web-application.vercel.app/)  
+
+## 📂 Features  
+
+- **Add Tasks**: Quickly add new tasks to your list.  
+- **View Tasks**: View a complete list of your tasks in a clean UI.  
+- **Update Tasks**: Edit tasks to reflect any changes.  
+- **Delete Tasks**: Remove completed or unnecessary tasks.  
+
+## 🛠 Tech Stack  
+
+- **Frontend**: React + Vite  
+- **Styling**: Tailwind CSS  
+
+## 🚀 Getting Started  
+
+Follow these steps to set up the project locally:  
+
+### Prerequisites  
+
+- Node.js installed on your machine  
+- Git installed  
+
+### Steps  
+
+1. **Clone the Repository**  
+   ```bash  
+   git clone <repository_url>  
+   cd <repository_folder>  
+2. **Install Dependencies**
+   Run the following command to install the required packages:

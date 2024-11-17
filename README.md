@@ -53,5 +53,5 @@ Follow these steps to set up the project locally:
      4. **Push to the branch**
      5. **Open a pull request.**
 6. **📧 Contact**
-   -If you have any questions or suggestions, feel free to reach out to the repository owner.
-   -Enjoy using the To-Do List Web Application! 😊**
+   - **If you have any questions or suggestions, feel free to reach out to the repository owner.**
+   - **Enjoy using the To-Do List Web Application! 😊**
